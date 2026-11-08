@@ -13,7 +13,13 @@ Every studio role reads this file before starting work. Edit it here, not inside
 - Never shaming, never preachy, never sarcastic toward the audience
 
 ## Characters
-_To be filled in with the first episode. Each character: name, fruit, signature colour, one want, one fear._
+### Pip the Pear
+- **Fruit:** Pear (small, slightly lopsided, round-bellied)
+- **Signature colour:** Soft sage green with a warm honey-gold blush
+- **Want:** To finish one small thing she started, just once, all the way through
+- **Fear:** That starting again means the first try was already a failure
+
+_Added by studio-writer for pilot-01 ("starting over"). Set Designer to confirm the visual details._
 
 ## Palette
 _Signature colours per character, plus a shared scene palette (3–5 colours). To be set with the Set Designer._
