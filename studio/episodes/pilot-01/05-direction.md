@@ -152,3 +152,27 @@ Also resolved: graphite `#3A3F44` (C7) now appears in `studio/bible.md` line 35 
 Director will verify items 1–3 on the next pass. No new creative changes are expected. The production brief is issued after that check.
 
 REVISE
+
+## Final approval
+
+Checked the five housekeeping items against the current files.
+
+| # | Item | Status | Evidence |
+|---|---|---|---|
+| 1 | Scene 6 timing 29–38s | Passes | `03-scenes.md` line 89 heading "beat 6, 29–38s" |
+| 2 | Pencil continuity | Passes | `03-scenes.md` line 105: beat 6 uses the fresh pencil from beat 4; beat 3 pencil not reused |
+| 3 | Shot 12 runtime note | Passes | `04-shots.md` line 106: "Card 8 holds the final 3s... The extra 1s is image before the card." No "over the rule" wording |
+| 4 | Camera flags 1 and 3 resolved | Passes | `04-shots.md` lines 112–116 |
+| 5 | Story flags 1–3 resolved | Passes | `02-story.md` lines 35–37 |
+
+Runtime check: 38s everywhere. `02-story.md` line 23 (beat 6 29–38s) and line 25; `03-scenes.md` line 89; `04-shots.md` lines 25, 102 (sum 3+3+4+2+3+2+3+3+3+3+5+4 = 38), 107. Card holds fit: cards 6 and 7 at 2.5s each in shot 11; card 8 at 3s in shot 12.
+
+Bible and content check: no health, money, outcome or shame claims; palette and light are warm (no dark vignette); Pip's honey-gold blush is in the final shot; card 8 is the closing line, held 2–3s.
+
+Non-blocking notes (no change required): `02-story.md` line 4 says "30–40 seconds" and `04-shots.md` line 104 says "35–40 second story target". Both are targets and 38s sits inside them. `04-shots.md` line 6 still reads "Status: draft for Director review"; the Producer should treat it as approved once this section is read.
+
+Conflicts: all C1–C8 resolved as recorded above. No new conflicts.
+
+Production brief (for the Producer): Produce pilot-01 "Starting over" at 38s, 9:16, using `01-writing.md`, `02-story.md`, `03-scenes.md` and `04-shots.md` as they now stand, with card 8 "One small line is a beginning." held for the final 3s and Pip in frame with her honey-gold blush visible in the last shot.
+
+APPROVED
