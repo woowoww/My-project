@@ -19,10 +19,10 @@ Status: draft for Director review. Final creative calls belong to the Director.
 | 8 | 4 Turn (beat 4) | Macro (pencil tip on paper) | Top-down, close | Static | 3 | 20–23 | Texture and emphasis. One small point touched on the blank page. This is "just one line." |
 | 9 | 5 Quiet win (beat 5) | Macro (the wobbly line) | Top-down, close | Static | 3 | 23–26 | Emphasis. The one shaky graphite line is the win. Shown without music or swell. |
 | 10 | 5 Quiet win (beat 5) | Close-up (Pip's face, blush warms) | Eye level | Slow push-in | 3 | 26–29 | Emotion. Emotional peak of the episode: "It was enough." Honey-gold blush warms. Push-in is the one move on the emotional peak. |
-| 11 | 6 Closing line (beat 6) | Wide | Eye level, slightly low | Static | 4 | 29–33 | Reveal and isolation. Pip leaves the sheet with the one line, and the VO runs "Tomorrow, she'll draw another." |
-| 12 | 6 Closing line (beat 6) | Medium (sheet and blush at frame edge) | Eye level | Static | 3 | 33–36 | Closing hold. Holds card 8, "One small line is a beginning." Sheet and one line in foreground. Blush visible. |
+| 11 | 6 Closing line (beat 6) | Wide | Eye level, slightly low | Static | 5 | 29–34 | Reveal and isolation. Pip stays in frame beside the sheet, turned partly away. The VO runs "Tomorrow, she'll draw another." Cards 6 and 7 hold 2.5s each. |
+| 12 | 6 Closing line (beat 6) | Medium (Pip's near cheek and blush at right third; sheet in foreground) | Eye level | Static | 4 | 34–38 | Closing hold. Sheet with one line in foreground, Pip's blush readable at right third, clear space above for card 8. Card 8, "One small line is a beginning.", holds the final 3s. |
 
-**Total runtime: 36 seconds.**
+**Total runtime: 38 seconds.**
 
 Removed shots (no clear reason, or the same beat already covered): a separate paint-jar insert (the jar is seen in shot 1), a second wide of beat 3 (shot 5 covers it), and an extra beat 5 face shot (shot 10 covers it).
 
@@ -40,7 +40,7 @@ Removed shots (no clear reason, or the same beat already covered): a separate pa
 | 8 | Macro | Texture. Graphite on the tip, paper grain. |
 | 9 | Macro | Texture. The wobble of the line is visible. |
 | 10 | 35mm feel (close) | Character. Warmest face shot, blush in soft light. |
-| 11 | Wide | Isolation. Pip exits the frame, leaving the sheet behind. |
+| 11 | Wide | Isolation. Pip stays in frame beside the sheet, turned partly away. |
 | 12 | 35mm feel (medium) | Closing still. Sheet and blush both readable. |
 
 ## Shot-level prompt fragments
@@ -54,7 +54,7 @@ Each fragment is written to be combined with the scene prompt in `03-scenes.md`.
 > Vertical 9:16 close-up, eye level, static. Pip's sage face with honey-gold cheeks glances down at the ruined page, then lifts her eyes to camera. Soft golden light from camera-left. Warm, quiet.
 
 **Shot 3 (Wide, static):**
-> Vertical 9:16 wide shot, static. Pip sits small on the edge of a worn oak table, hands in her lap, shoulders low, plain cream wall behind. A blank sheet lies out of reach. Heavy golden light from camera-left.
+> Vertical 9:16 wide shot, static. Pip sits small on the edge of a worn oak table, hands in her lap, shoulders low, plain cream wall behind. A blank sheet lies out of reach. Warm golden light from camera-left.
 
 **Shot 4 (Close-up, static):**
 > Vertical 9:16 close-up, eye level, static. Pip's face, shoulders low, eyes on the dried blue page. Long, patient stillness with one slow breath. Faint honey-gold blush. Golden light from camera-left.
@@ -78,10 +78,10 @@ Each fragment is written to be combined with the scene prompt in `03-scenes.md`.
 > Vertical 9:16 close-up, slow push-in. Pip looks down at her line, mouth softening into a small smile, honey-gold blush warming on her cheeks. Soft, still golden light from camera-left. Warm, hopeful.
 
 **Shot 11 (Wide, static):**
-> Vertical 9:16 wide shot, static. Pip, at the edge of frame, turns away from the oak table, leaving a cream sheet with one wobbly graphite line behind. Plain wall, lower amber sun from camera-left. Calm, hopeful.
+> Vertical 9:16 wide shot, static. Pip stays in frame beside the cream sheet, turned partly away, cheek visible, not leaving. The sheet holds one wobbly graphite line. Plain wall, lower amber sun from camera-left. Calm, hopeful.
 
 **Shot 12 (Medium, static):**
-> Vertical 9:16 medium shot, static. Small cream sheet with one wobbly graphite line in the foreground, clear space above and below for a text card. Pip's honey-gold blush catches amber light at the frame edge. Hopeful, calm.
+> Vertical 9:16 medium shot, static. Small cream sheet with one wobbly graphite line in the foreground. Pip's near cheek and honey-gold blush clearly readable at the right third, catching amber light. Clear open space above for a text card.
 
 ## Runtime check
 
@@ -97,14 +97,14 @@ Each fragment is written to be combined with the scene prompt in `03-scenes.md`.
 | 8 | 3 |
 | 9 | 3 |
 | 10 | 3 |
-| 11 | 4 |
-| 12 | 3 |
-| **Total** | **36** |
+| 11 | 5 |
+| 12 | 4 |
+| **Total** | **38** |
 
-- Sum is 36 seconds, inside the 30–45 second range.
-- Most shots are 2–4 seconds. All are within range.
-- Closing shot (shot 12) holds 3 seconds for card 8, inside the 2–3 second rule.
-- Scene boundaries match `03-scenes.md`: scene 1 ends at 6s, scene 2 at 12s, scene 3 at 17s, scene 4 at 23s, scene 5 at 29s. Scene 6 runs 29–36s in this list. The story target of 35–40s is reached only if the Director extends the closing hold or adds time. Shot 12 cannot go past 3s under the closing-line rule.
+- Sum is 38 seconds, inside the 30–45 second range and the 35–40 second story target.
+- Most shots are 2–4 seconds. Shot 11 is 5s for the cards 6 and 7 holds (2.5s each).
+- Closing shot (shot 12) is 4s: about 1s of image before card 8, which holds the final 3s. This is 1s over the 2–3 second closing-line rule, set by the Director (item 10).
+- Scene boundaries match `03-scenes.md`: scene 1 ends at 6s, scene 2 at 12s, scene 3 at 17s, scene 4 at 23s, scene 5 at 29s. Scene 6 runs 29–38s in this list.
 - Movement count: two slow push-ins only (shots 5 and 10). All other shots are static.
 
 ## Flags for the Director

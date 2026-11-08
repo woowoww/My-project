@@ -32,6 +32,8 @@ _Added by studio-writer for pilot-01 ("starting over"). Set Designer to confirm 
 
 Light: warm golden window light from camera-left, never a hard or dark look.
 
+Pencil-line colour (not one of the four scene colours): graphite `#3A3F44`. Pencil lines only, never for props, light or Pip.
+
 ## Banned content
 - Health, medical, or fitness outcome claims
 - Money, investment, or income promises

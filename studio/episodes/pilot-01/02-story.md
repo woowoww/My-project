@@ -20,15 +20,15 @@ Source: `01-writing.md` (voiceover and cards)
 | 3 | Small failure | Tense | 12–17s | No VO line (see flag 1) | Pip pulls a fresh sheet and starts a big, careful outline. The pencil slips and the first stroke goes crooked. She stops with the pencil in the air. |
 | 4 | Turn | Hopeful | 17–23s | "Then she thought, okay. Not the whole picture. Just one line." Cards 3–4 | Pip sets the big outline down, takes a fresh pencil, and touches the page at one point. |
 | 5 | Quiet win | Hopeful | 23–29s | "So she drew one line. It was wobbly. It was enough." Card 5 | One slow, slightly shaky line across the page. Pip looks at it and her blush warms. No music swell. |
-| 6 | Closing line | Hopeful | 29–40s | "Tomorrow, she'll draw another. Starting over doesn't have to be big. It can be one line. One small line is a beginning." Cards 6–8 | Pip leaves the sheet on the table with the one line visible. Final frame holds card 8. |
+| 6 | Closing line | Hopeful | 29–38s | "Tomorrow, she'll draw another. Starting over doesn't have to be big. It can be one line. One small line is a beginning." Cards 6–8 | Pip sets the pencil down and turns partly away, staying in frame, cheek and blush toward the light; the sheet with one line in the foreground. Final frame holds card 8. |
 
-Total VO runs about 30 seconds. Card holds and beat 3 fill the rest to 35–40 seconds.
+Total VO runs about 30 seconds. Card holds and beat 3 fill the rest to 38 seconds.
 
 ## Closing line (final frame)
 
 **"One small line is a beginning."**
 
-Hold on screen for 2–3 seconds (card 8). Visual is Pip's single line on the page, with the honey-gold blush in frame.
+Hold on screen for 2–3 seconds (card 8). Visual is Pip's single line on the page, with the honey-gold blush in frame. Pip stays in frame in the final shot, with the honey-gold blush visible.
 
 ## Flags for the Writer
 

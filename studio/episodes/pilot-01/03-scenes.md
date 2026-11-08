@@ -49,9 +49,9 @@ Supporting props, each used in one or two scenes only:
 ### Scene 2: Struggle (beat 2, 6–12s)
 - **Location:** same table edge.
 - **Time of day:** late afternoon.
-- **Props:** the ruined sketch, now with dried blue paint. Jar upright. A fresh blank sheet out of reach at the far side of the table.
+- **Props:** the ruined sketch, now with dried blue paint. Jar upright. Two blank sheets sit at the far side of the table, out of reach. Scene 3 takes the top sheet for the outline; scene 4 takes the second, smaller sheet.
 - **Background:** plain cream wall, out of focus.
-- **Lighting mood:** warm, still, slightly heavier than scene 1.
+- **Lighting mood:** still and warm.
 - **Palette:** cream `#F4EEDD`, oak `#A9774B`, slate `#5C6B73`, ultramarine `#2F4FA3` (dried on the page). Pip: sage with honey-gold blush.
 - **Prompt:**
   > Vertical 9:16. Pip the pear sits on the edge of the oak table, hands in her lap, shoulders low, gazing at a page with dried blue paint. Late afternoon, golden window light from the left. A fresh blank sheet lies out of reach across the table. Still, patient mood, no motion except a slow breath. Muted sage and oak tones with a faint honey-gold blush. Open space above and below for text. No text in frame.
@@ -90,11 +90,11 @@ Supporting props, each used in one or two scenes only:
 - **Location:** same table.
 - **Time of day:** late afternoon, sun lower.
 - **Props:** the small cream sheet with the one wobbly line, left on the table. Pencil set down beside it.
-- **Background:** plain cream wall, going slightly darker and slate at the edges.
+- **Background:** plain cream wall.
 - **Lighting mood:** amber, low sun from the left. Final frame holds card 8 and the blush is visible.
 - **Palette:** cream `#F4EEDD`, oak `#A9774B`, slate `#5C6B73`, graphite `#3A3F44`. Light: amber glow. Pip: sage with honey-gold blush.
 - **Prompt:**
-  > Vertical 9:16. Pip the pear, at the edge of frame, turns away from the oak table and leaves a sheet of cream paper behind with one wobbly graphite line visible. Warm late-afternoon light, lower sun from the left, soft amber glow. Her honey-gold blush catches the light. Hopeful, calm final mood. Clear space above and below the page for a text card. No text in frame.
+  > Vertical 9:16. Pip the pear stays in frame at the right third, turned partly away toward a sheet of cream paper with one wobbly graphite line, her cheek and honey-gold blush readable in the amber light. Warm late-afternoon light, lower sun from the left, soft amber glow. Hopeful, calm final mood. Clear space above and below the page for a text card. No text in frame.
 
 ## Continuity notes
 
