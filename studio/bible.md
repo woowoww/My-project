@@ -22,7 +22,15 @@ Every studio role reads this file before starting work. Edit it here, not inside
 _Added by studio-writer for pilot-01 ("starting over"). Set Designer to confirm the visual details._
 
 ## Palette
-_Signature colours per character, plus a shared scene palette (3–5 colours). To be set with the Set Designer._
+**Pip the Pear (signature):** soft sage green `#9CAF88` with honey-gold blush `#E0A526` on the cheeks only. Visual confirmed by Set Designer for pilot-01: sage body, small lopsided round-bellied shape. Honey-gold is reserved for Pip's blush so it always reads as her.
+
+**Shared scene palette (4 colours, all episodes):**
+- Warm cream paper `#F4EEDD`
+- Worn oak `#A9774B`
+- Late-light slate `#5C6B73`
+- Ultramarine `#2F4FA3` (paint accent only)
+
+Light: warm golden window light from camera-left, never a hard or dark look.
 
 ## Banned content
 - Health, medical, or fitness outcome claims
