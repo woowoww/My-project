@@ -32,8 +32,8 @@ Hold on screen for 2–3 seconds (card 8). Visual is Pip's single line on the pa
 
 ## Flags for the Writer
 
-1. **Beat 3 has no voiceover line.** The VO goes from "sat for a long time" straight to "Then she thought, okay." The small failure is visual only (the crooked first stroke). The Writer should decide whether to add a short line or keep it silent. I have not changed any VO line.
-2. **Card 7 paraphrases the VO.** Card 7 says "Starting over can be small." The VO says "Starting over doesn't have to be big." The meaning matches, so I am flagging it only so the wording can be checked.
-3. **Hook option 3 and the caption add content not in the VO.** "Pip's plan lasted four minutes" and "Some days, small is the whole plan" do not appear in the voiceover. They are not contradictions, but the Story Writer's beats do not use them.
+1. **Beat 3 has no voiceover line.** The VO goes from "sat for a long time" straight to "Then she thought, okay." The small failure is visual only (the crooked first stroke). The Writer should decide whether to add a short line or keep it silent. I have not changed any VO line. **Resolved (C1):** Kept silent. No VO line added; the pencil frozen in the air is the fear peak, and "Then she thought, okay" answers the silence.
+2. **Card 7 paraphrases the VO.** Card 7 says "Starting over can be small." The VO says "Starting over doesn't have to be big." The meaning matches, so I am flagging it only so the wording can be checked. **Resolved (C2):** Card 7 kept unchanged; cards must work with sound off, and the meaning is correct.
+3. **Hook option 3 and the caption add content not in the VO.** "Pip's plan lasted four minutes" and "Some days, small is the whole plan" do not appear in the voiceover. They are not contradictions, but the Story Writer's beats do not use them. **Resolved (C3):** Hook 1 (visual gag) chosen and hook 3 withdrawn; the caption is kept because it is a caption, not VO.
 
 No other mismatches. The VO's "wobbly" and "enough" lines address Pip's fear directly: a wobbly first line is still a start, not a failure. The want (finishing one small thing) is carried by the line she completes in beat 5.

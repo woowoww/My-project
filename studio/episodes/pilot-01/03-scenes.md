@@ -86,7 +86,7 @@ Supporting props, each used in one or two scenes only:
 - **Prompt:**
   > Vertical 9:16. Pip the pear sits at the oak table with one hand resting near a sheet of cream paper. A single slow, slightly shaky graphite line crosses the page from left to right. She looks at it and her honey-gold blush warms. Late afternoon golden window light from the left, soft and still. Gentle, hopeful mood, no dramatic lighting. Open space above and below for text. No text in frame.
 
-### Scene 6: Closing line (beat 6, 29–40s)
+### Scene 6: Closing line (beat 6, 29–38s)
 - **Location:** same table.
 - **Time of day:** late afternoon, sun lower.
 - **Props:** the small cream sheet with the one wobbly line, left on the table. Pencil set down beside it.
@@ -102,7 +102,7 @@ Supporting props, each used in one or two scenes only:
 - **Table and wall:** same oak table and plain cream wall in all six scenes. No change of room.
 - **The sheet:** the ruined sketch (beats 1–2) is replaced by a fresh sheet (beat 3). The big outline (beat 3) is set face-down in beat 4 and stays face-down. The small sheet with the one line (beats 4–6) is the closing prop.
 - **Paint jar:** tipped in beat 1, upright in beats 2–6. The blue stain stays on the table edge as a quiet reminder.
-- **Pencil:** the slip in beat 3 is the same pencil that Pip sets down in beat 6. Beat 4 uses a fresh pencil, so the pencil is a new one from beat 4 on.
+- **Pencil:** the beat 3 pencil (the one that slips) is not used again. Beat 4 takes a fresh pencil, and beat 6 uses that same fresh pencil from beat 4, which Pip sets down beside the sheet.
 - **Colour rule:** ultramarine appears only in the paint jar and its spill (beats 1–2). Honey-gold appears only as Pip's blush. Graphite appears only in pencil lines (beats 3, 5, 6).
 - **Pip's blush:** present in every scene, warmest in beat 5 and visible in beat 6.
 
