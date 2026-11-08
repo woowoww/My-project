@@ -108,3 +108,47 @@ Numbered changes:
 Not a role change: the user should add graphite `#3A3F44` to `studio/bible.md` as a pencil-line colour, outside the four scene colours.
 
 Production brief: not issued, because the verdict is REVISE. Re-review after changes 1–12.
+
+## Re-review
+
+Sources checked as they now stand: `01-writing.md`, `02-story.md`, `03-scenes.md`, `04-shots.md`. Checked against `studio/bible.md`.
+
+### Changes 1–12 check
+
+| # | Change | Status | Evidence |
+|---|---|---|---|
+| 1 | Writer: hook 1 chosen, hook 3 withdrawn | Applied | `01-writing.md` line 8 "(chosen)"; line 10 struck through, "Withdrawn" |
+| 2 | Story: beat 6 visual, pencil set down, Pip partly turned, in frame | Applied | `02-story.md` line 23 |
+| 3 | Story: beat 6 time 29–38s | Applied | `02-story.md` line 23 |
+| 4 | Story: Pip in frame, blush visible in final frame | Applied | `02-story.md` line 31 |
+| 5 | Set: scene 6 prompt, Pip stays in frame at right third | Applied | `03-scenes.md` line 97 (no "edge of frame" or "turns away from the oak table") |
+| 6 | Set: remove "darker and slate at the edges" | Applied | `03-scenes.md` line 93 now "plain cream wall" |
+| 7 | Set: two blank sheets in scene 2; top sheet to scene 3, second sheet to scene 4 | Applied | `03-scenes.md` line 52 |
+| 8 | Set: scene 2 lighting "still and warm" | Applied | `03-scenes.md` line 54 |
+| 9 | Camera: shot 11 at 5s, in frame, partly turned; cards 6 and 7 at 2.5s | Applied | `04-shots.md` row 11 (line 22), prompt line 81 |
+| 10 | Camera: shot 12 at 4s, medium, cheek and blush at right third, clear space above | Applied | `04-shots.md` row 12 (line 23), prompt line 84 |
+| 11 | Camera: shot 3 "Warm golden light" | Applied | `04-shots.md` line 57 |
+| 12 | Camera: runtime table 38s, scene 6 boundary note | Applied (note wording needs one fix, R3) | `04-shots.md` lines 102, 106–107 |
+
+Also resolved: graphite `#3A3F44` (C7) now appears in `studio/bible.md` line 35 as a pencil-line colour, outside the four scene colours.
+
+### Specific checks
+
+- **Shot 12 at 4s: accepted.** Card 8 holds the final 3s, inside the bible's 2–3s closing-line rule. The extra 1s is image before the card. The note at `04-shots.md` line 106 wrongly calls this "1s over the rule" (R3).
+- **Beat 6 timing agrees at 38s.** Story beat 6 is 29–38s (`02-story.md` line 23). Shots 11 and 12 are 5s + 4s = 29–38s. Runtime table sums to 38 (3+3+4+2+3+2+3+3+3+3+5+4). Shot-list timecodes end at 38. Scene boundaries match beats 1–5. **Mismatch:** `03-scenes.md` line 89 heading still says "29–40s" (R1).
+- **Scene 2 lighting: still and warm.** Confirmed at `03-scenes.md` line 54. Scene 2 prompt is "still, patient mood". Passes.
+- **Continuity contradiction (new).** `03-scenes.md` line 105 says the beat 3 pencil is "the same pencil" Pip sets down in beat 6, and in the same line that beat 4 uses a fresh pencil. Beat 6 must use the fresh pencil from beat 4 (R2).
+- **Content check.** No health, money, outcome or shame claims in any file. "Tomorrow, she'll draw another" is an intention. The failure is shown, not blamed. Amber and slate light is warm, with no dark vignette. Passes.
+- **Palette check.** Honey-gold only on Pip's blush. Ultramarine only on the jar and spill. Graphite only in pencil lines. Passes.
+
+### Remaining changes
+
+1. **Set Designer** (`03-scenes.md` line 89): change the scene 6 heading from "beat 6, 29–40s" to "beat 6, 29–38s".
+2. **Set Designer** (`03-scenes.md` line 105): replace the pencil continuity note. Beat 6 uses the fresh pencil from beat 4. The beat 3 pencil is not used again.
+3. **Camera Operator** (`04-shots.md` line 106): replace "This is 1s over the 2–3 second closing-line rule" with "Card 8 holds 3s, within the 2–3s rule. The extra 1s is image before the card."
+4. **Camera Operator** (`04-shots.md` lines 110–115): mark flags 1 and 3 as resolved, citing this review. Flag 1 is resolved by C4 and flag 3 by C6. Housekeeping, so the file does not read as open.
+5. **Story Writer** (`02-story.md` lines 33–37): mark flags 1–3 as resolved, citing C1, C2 and C3. Housekeeping.
+
+Director will verify items 1–3 on the next pass. No new creative changes are expected. The production brief is issued after that check.
+
+REVISE
