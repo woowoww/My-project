@@ -1,0 +1,98 @@
+# Tessa Glitch: First Five Scripts (Drafts)
+
+**Labels on every post:** "AI-generated character" in the caption, plus the platform's AI-content toggle.
+**Fact-check note:** Every factual claim in these drafts must be verified against a primary source (the official product page, release notes, or the company's own documentation) before posting. Items marked **[VERIFY]** need that check.
+
+---
+
+## 1. Is it worth it? Quick app review (30-45 sec)
+
+**Hook (0-3s):** "I tested a note-taking app so you don't have to. Is it worth your storage? Let's decode it."
+
+**Body:**
+- "First, what it does: it turns voice memos into searchable text."
+- "What I liked: setup took about a minute, and the search was fast."
+- "What I didn't love: the free tier caps how many recordings you can keep. **[VERIFY current free-tier limit]**"
+- "Who it's for: people who record a lot of meetings or ideas."
+
+**Close:** "Verdict: worth a free trial if you talk more than you type. Patch notes: me."
+
+**Caption:** AI-generated character. Quick take on a note app. Pricing and limits can change, so check the official site.
+**Hashtags:** #AIcharacter #TechReview #Productivity
+
+---
+
+## 2. Myth vs. fact: smart home devices (20-30 sec)
+
+**Hook:** "Myth: smart plugs are always listening. Let's check."
+
+**Body:**
+- "Fact: a smart plug has no microphone. It switches power on and off."
+- "Myth: smart speakers listen all the time. Fact: most only process audio after a wake word. **[VERIFY for the specific model]**"
+- "Quick fix: check the mic-mute button and review your app's permissions."
+
+**Close:** "Know what your devices can and can't do. Myth busted."
+
+**Caption:** AI-generated character. Myth vs. fact on smart home privacy. Check your own device's settings and manual.
+**Hashtags:** #MythVsFact #SmartHome #PrivacyTips
+
+---
+
+## 3. Five-second hack: phone storage (15-20 sec)
+
+**Hook:** "Five seconds to free up phone storage. Ready?"
+
+**Body:**
+- "Step one: open your storage settings."
+- "Step two: check which apps use the most space."
+- "Step three: clear cached data for apps you rarely open. **[VERIFY menu names on current iOS and Android versions]**"
+
+**Close:** "Storage fixed. Patch notes: me."
+
+**Caption:** AI-generated character. Quick storage hack. Menu names vary by device and OS version.
+**Hashtags:** #PhoneHacks #TechTips #AIcharacter
+
+---
+
+## 4. Weekly tech recap (30-45 sec)
+
+**Hook:** "This week in tech, decoded in under a minute."
+
+**Body:**
+- "Story one: [insert verified headline and one-sentence summary, with source]."
+- "Story two: [insert verified headline and one-sentence summary, with source]."
+- "Why it matters to you: [one plain-language sentence]."
+
+**Close:** "That's the week. Tessa out. Still learning how to parallel park."
+
+**Caption:** AI-generated character. Weekly tech recap with sources linked in the caption.
+**Note:** Only use stories confirmed by at least one reputable outlet on the day of posting. Don't post a recap without sources.
+**Hashtags:** #TechNews #WeeklyRecap #AIcharacter
+
+---
+
+## 5. Sponsored review template (30-60 sec, paid)
+
+**Label:** Paid partnership, plus the AI-generated label. Use the platform's branded-content tool.
+
+**Hook:** "Sponsored, and I'm an AI, so let's be clear about both. Here's what this tool does."
+
+**Body:**
+- "What it does: [one factual sentence from the brand's approved copy]."
+- "What I tested: [describe what was actually tested, no invented results]."
+- "My honest take: [opinion, clearly marked as Tessa's opinion]."
+- "Things to know: [pricing, limits, or requirements from the brand, verified]."
+
+**Close:** "Worth a look if [specific use case]. Otherwise, skip it. Your call."
+
+**Approval:** The brand reviews the factual claims. Creator team approves the final cut before posting.
+**Caption:** AI-generated character. Paid partnership with [brand]. Opinions are Tessa's.
+**Hashtags:** #ad #AIcharacter #TechReview
+
+---
+
+## Production notes
+
+- Visual: stylized 3D or illustrated, teal bob, amber streak, holo-tablet prop in every explainer.
+- Length: keep videos under the platform's recommended short-form length.
+- Each script needs a source sheet listing every claim and where it came from.
