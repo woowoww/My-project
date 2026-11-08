@@ -12,7 +12,7 @@
 **Body:**
 - "First, what it does: it turns voice memos into searchable text."
 - "What I liked: setup took about a minute, and the search was fast."
-- "What I didn't love: the free tier caps how many recordings you can keep. **[VERIFY current free-tier limit]**"
+- "What I didn't love: [state one limitation, e.g. the free-tier cap, copied from the app's official pricing page on the day of posting]. **[VERIFY against the app's official pricing page; name the app before posting]**"
 - "Who it's for: people who record a lot of meetings or ideas."
 
 **Close:** "Verdict: worth a free trial if you talk more than you type. Patch notes: me."
@@ -27,10 +27,10 @@
 **Hook:** "Myth: smart plugs are always listening. Let's check."
 
 **Body:**
-- "Fact: a basic smart plug has no microphone. It switches power on and off. **[VERIFY for the specific model]**"
-- "Myth: smart speakers record everything. Fact: wake-word detection runs on the device, and recording starts after it hears the wake word. **[VERIFY against Amazon's and Google's official privacy pages]**"
-- "Honest caveat: speakers sometimes activate by mistake, so check what's stored in your account."
-- "Quick fix: use the mic-mute button and review your app's stored recordings and permissions."
+- "Myth: smart speakers record everything. Fact: Amazon says Echo devices detect only the wake word on the device and stream audio to the cloud after it's detected. Amazon also confirms this in the cloud before continuing."
+- "Honest caveat: speakers sometimes activate by mistake, and recordings can be saved to your account by default."
+- "Quick fix: review and delete recordings in your Alexa or Google account, and use the mic-mute button when you don't want it listening."
+- "**[VERIFY Google Nest wake-word claims against Google's official Nest help page before posting, since the Amazon claims were checked against Amazon's help text but the Google ones came from third-party sources. Also check the current mic-mute and recording-deletion menu paths.]**"
 
 **Close:** "Know what your devices can and can't do. Myth busted."
 
@@ -46,7 +46,9 @@
 **Body:**
 - "Step one: open your storage settings. On iPhone, that's Settings > General > iPhone Storage. On Android, it's Settings > Storage."
 - "Step two: sort by size and find the apps taking the most space."
-- "Step three: on iPhone, offload apps you rarely use. On many Android phones, open the app's storage page and clear its cache. **[VERIFY menu names on current iOS and Android versions against Apple's and Google's official support pages]**"
+- "Step three: on iPhone, turn on Settings > General > iPhone Storage > Offload Unused Apps, which keeps your data. On Android, open Settings > Apps, pick the app, go to Storage & cache, and tap Clear cache. Clearing cache is temporary, since the app rebuilds it."
+
+**Verified against:** Apple's support guide (Manage storage on iPhone) and Google's Android help page "Free up storage on your Android device." Menu names can vary by phone manufacturer, so keep the caveat in the caption.
 
 **Close:** "Storage fixed. Patch notes: me."
 
