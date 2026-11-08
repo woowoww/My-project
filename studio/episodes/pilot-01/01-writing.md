@@ -5,9 +5,9 @@ Character: Pip the Pear (see `studio/bible.md`)
 
 ## Hook options (first 2 seconds)
 
-1. **Visual gag:** Pip sits beside a tipped-over paint jar and a ruined sketch. She looks at it, then looks at the camera.
+1. **Visual gag (chosen):** Pip sits beside a tipped-over paint jar and a ruined sketch. She looks at it, then looks at the camera.
 2. **Question:** "What if the bravest thing today is one small line?"
-3. **Line:** "Pip's plan lasted four minutes. Her next one is smaller."
+3. ~~**Line:** "Pip's plan lasted four minutes. Her next one is smaller."~~ **Withdrawn** (makes the failure the joke; see 05-direction.md, C3).
 
 ## Voiceover script (30–45 seconds)
 
