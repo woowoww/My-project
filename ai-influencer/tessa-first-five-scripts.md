@@ -27,9 +27,10 @@
 **Hook:** "Myth: smart plugs are always listening. Let's check."
 
 **Body:**
-- "Fact: a smart plug has no microphone. It switches power on and off."
-- "Myth: smart speakers listen all the time. Fact: most only process audio after a wake word. **[VERIFY for the specific model]**"
-- "Quick fix: check the mic-mute button and review your app's permissions."
+- "Fact: a basic smart plug has no microphone. It switches power on and off. **[VERIFY for the specific model]**"
+- "Myth: smart speakers record everything. Fact: wake-word detection runs on the device, and recording starts after it hears the wake word. **[VERIFY against Amazon's and Google's official privacy pages]**"
+- "Honest caveat: speakers sometimes activate by mistake, so check what's stored in your account."
+- "Quick fix: use the mic-mute button and review your app's stored recordings and permissions."
 
 **Close:** "Know what your devices can and can't do. Myth busted."
 
@@ -43,9 +44,9 @@
 **Hook:** "Five seconds to free up phone storage. Ready?"
 
 **Body:**
-- "Step one: open your storage settings."
-- "Step two: check which apps use the most space."
-- "Step three: clear cached data for apps you rarely open. **[VERIFY menu names on current iOS and Android versions]**"
+- "Step one: open your storage settings. On iPhone, that's Settings > General > iPhone Storage. On Android, it's Settings > Storage."
+- "Step two: sort by size and find the apps taking the most space."
+- "Step three: on iPhone, offload apps you rarely use. On many Android phones, open the app's storage page and clear its cache. **[VERIFY menu names on current iOS and Android versions against Apple's and Google's official support pages]**"
 
 **Close:** "Storage fixed. Patch notes: me."
 
