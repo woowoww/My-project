@@ -12,7 +12,7 @@
 **Body:**
 - "First, what it does: it turns voice memos into searchable text."
 - "What I liked: setup took about a minute, and the search was fast."
-- "What I didn't love: [state one limitation, e.g. the free-tier cap, copied from the app's official pricing page on the day of posting]. **[VERIFY against the app's official pricing page; name the app before posting]**"
+- "What I didn't love: [state one limitation copied from the product's official pricing or feature page on the day of posting]. **[VERIFY. No product has been chosen yet. Pick a product Tessa will review, then check its official page before posting.]**"
 - "Who it's for: people who record a lot of meetings or ideas."
 
 **Close:** "Verdict: worth a free trial if you talk more than you type. Patch notes: me."
