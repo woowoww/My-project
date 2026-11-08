@@ -30,7 +30,8 @@
 - "Myth: smart speakers record everything. Fact: Amazon says Echo devices detect only the wake word on the device and stream audio to the cloud after it's detected. Amazon also confirms this in the cloud before continuing."
 - "Honest caveat: speakers sometimes activate by mistake, and recordings can be saved to your account by default."
 - "Quick fix: review and delete recordings in your Alexa or Google account, and use the mic-mute button when you don't want it listening."
-- "**[VERIFY Google Nest wake-word claims against Google's official Nest help page before posting, since the Amazon claims were checked against Amazon's help text but the Google ones came from third-party sources. Also check the current mic-mute and recording-deletion menu paths.]**"
+- "Google says its speakers check short audio snippets on the device for 'Hey Google,' and snippets that don't trigger aren't sent to or saved by Google."
+- "**[VERIFY the current mic-mute and recording-deletion menu paths in the Amazon and Google apps before posting. The Google wake-word claim is confirmed by Google's help page at support.google.com/googlehome/answer/7072285.]**"
 
 **Close:** "Know what your devices can and can't do. Myth busted."
 
