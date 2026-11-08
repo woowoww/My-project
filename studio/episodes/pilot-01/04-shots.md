@@ -103,13 +103,15 @@ Each fragment is written to be combined with the scene prompt in `03-scenes.md`.
 
 - Sum is 38 seconds, inside the 30–45 second range and the 35–40 second story target.
 - Most shots are 2–4 seconds. Shot 11 is 5s for the cards 6 and 7 holds (2.5s each).
-- Closing shot (shot 12) is 4s: about 1s of image before card 8, which holds the final 3s. This is 1s over the 2–3 second closing-line rule, set by the Director (item 10).
+- Closing shot (shot 12) is 4s, as set by the Director (item 10). Card 8 holds the final 3s, inside the 2–3 second closing-line rule. The extra 1s is image before the card.
 - Scene boundaries match `03-scenes.md`: scene 1 ends at 6s, scene 2 at 12s, scene 3 at 17s, scene 4 at 23s, scene 5 at 29s. Scene 6 runs 29–38s in this list.
 - Movement count: two slow push-ins only (shots 5 and 10). All other shots are static.
 
 ## Flags for the Director
 
 1. **Final frame conflict.** Scene 6 prompt has Pip turning away from the table, but scene 6 and card 8 need her honey-gold blush visible in the closing frame. Shot 11 has her leaving and shot 12 has the blush at the frame edge. Decide whether Pip stays in frame or whether the blush is shown by a separate sheet-and-cheek shot.
+   - **Resolved (C4).** Pip stays in frame and turns only partly away. Shot 11 shows her not leaving, and shot 12 is a medium with her near cheek and honey-gold blush readable at the right third. No separate shot is needed.
 2. **Beat 3 has no VO line** (per `02-story.md` flag 1). Shots 5–6 carry it visually. If the Writer adds a line, timing may need to change.
 3. **Card reading time.** Eight cards are placed across shots 1–12. The current timings do not allot extra time for reading cards. The Director may need to extend shots 1, 3, or 12 to fit card holds.
+   - **Resolved (C6).** Only beat 6 was short. Shot 11 is 5s (cards 6 and 7 at 2.5s each), shot 12 is 4s (card 8 holds the final 3s). Total 38s, within the 30–45s range. Shots 1, 3 and 12 are not extended beyond this.
 4. **Movement choices.** Push-ins on shots 5 and 10 only. Shot 5 starts the tension and shot 10 is the emotional peak. Both follow the story change. Director can remove either.
