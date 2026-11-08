@@ -12,7 +12,7 @@
 **Body:**
 - "First, what it does: it turns voice memos into searchable text."
 - "What I liked: setup took about a minute, and the search was fast."
-- "What I didn't love: [state one limitation copied from the product's official pricing or feature page on the day of posting]. **[VERIFY. No product has been chosen yet. Pick a product Tessa will review, then check its official page before posting.]**"
+- "What I didn't love: not every app supports Focus Filters yet, so some apps keep showing everything. **[VERIFY against Apple's official Focus help page before posting. The source found was third-party, not Apple's own page.]**"
 - "Who it's for: people who record a lot of meetings or ideas."
 
 **Close:** "Verdict: worth a free trial if you talk more than you type. Patch notes: me."
